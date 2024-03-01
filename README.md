@@ -18,7 +18,10 @@ Simulations and estimations use `KNITRO 12.3.0.`.
 Data
 ====
 
-Our empirical application is based on data from Nielsen Consumer LLC and marketing databases provided through the NielsenIQ Datasets at the Kilts Center for Marketing Data Center at The University of Chicago Booth School of Business. 
+Our empirical application is based on data from Nielsen Consumer LLC and marketing databases provided through the NielsenIQ Datasets at the Kilts Center for Marketing Data Center at The University of Chicago Booth School of Business.
+We cannot include it to this package. For the information on acquiring the data for academic researchers see <https://www.chicagobooth.edu/research/kilts/datasets/nielseniq-nielsen>. 
+
+`Data/extract_2016_2018_34.csv` only contains the household and market identifiers sufficient for reconstructing the data.
 
 Hardware
 ========
